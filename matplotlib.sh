@@ -1,0 +1,1 @@
+echo "backend : TkAgg" > ~/.matplotlib/matplotlibrc
